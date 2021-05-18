@@ -1,2 +1,2 @@
 # calculator
-Simple using HTML and CSS
+Simple application using HTML and CSS
